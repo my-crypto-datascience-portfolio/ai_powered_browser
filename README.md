@@ -1,2 +1,2 @@
-# my_crypto_antidetect_browser
-Simple anonymous browser for the crypto traders with some anti-detect features.
+# ai_powered_browser
+AI-powered browser for parsing with some anti-detect features.
